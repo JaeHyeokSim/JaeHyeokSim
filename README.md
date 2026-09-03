@@ -36,6 +36,8 @@
 
 ## 실무 경력 (2021.02 ~ 재직 중)
 
+> 실제로 부딪힌 문제와 해결 과정은 [경력기술서](https://github.com/JaeHyeokSim/career)에 정리했습니다.
+
 해외 소싱 커머스 SaaS. `PHP` `MySQL` `JavaScript` `Chrome Extension` `Linux/Cron`
 
 커밋 **3,923건** (머지 제외), 수정 파일 **3,065개**, 연평균 692커밋.
